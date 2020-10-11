@@ -3,7 +3,7 @@
 
 **This is a Python 3 bashed script. Made and developed by [Md. Almas Ali](https://facebook.com/md.almasali.0)**
 
-![Image](https://github.com/Almas-Ali/PyPdf_Reader/tree/main/IMG/img.jpg)<br>
+![Image](IMG/img.jpg)<br>
 [![license](https://img.shields.io/github/license/dwisiswant0/WiFiID.svg)](https://github.com/Almas-Ali/PyPdf_Reader/LICENSE)
 
 **Usage:**
