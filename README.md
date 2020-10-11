@@ -6,8 +6,8 @@
 ![Image](IMG/img.jpg)<br>
 [![license](https://img.shields.io/github/license/dwisiswant0/WiFiID.svg)](https://github.com/Almas-Ali/PyPdf_Reader/LICENSE)
 
-**Usage:**
-For Linux:
+# Usage
+**For Linux:**
 Open your terminal and type those commands.
 
 ```
