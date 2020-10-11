@@ -1,5 +1,5 @@
 # Py Pdf Reader
-**Version 1.0 **
+**Version 1.0**
 
 **This is a Python 3 bashed script. Made and developed by [Md. Almas Ali](https://facebook.com/md.almasali.0)**
 
@@ -55,5 +55,5 @@ python3 -m pip install -r requirement.txt
 python3 reader.pyc
 ```
 
-#Warning
+# Warning
 **Just Use it don't try to edit or modify it. You can report any mess of code here.**
