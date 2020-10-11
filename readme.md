@@ -16,8 +16,7 @@ apt-get update && apt-get upgrade
 apt-get install python3
 apt-get install python3-pip
 apt-get install git
-git clone https://github
-com/Almas-Ali/PyPdf_Reader
+git clone https://github.com/Almas-Ali/PyPdf_Reader.git
 cd PyPdf_Reader
 ls
 chmod +x *
@@ -34,8 +33,7 @@ apt-get update && apt-get upgrade
 apt-get install python3
 apt-get install python3-pip
 apt-get install git
-git clone https://github
-com/Almas-Ali/PyPdf_Reader
+git clone https://github.com/Almas-Ali/PyPdf_Reader.git
 cd PyPdf_Reader
 ls
 chmod +x *
@@ -48,8 +46,7 @@ python3 reader.pyc
 Install Python3 and Git first. Then follow next steps.
 
 ```
-git clone https://github
-com/Almas-Ali/PyPdf_Reader
+git clone https://github.com/Almas-Ali/PyPdf_Reader.git
 cd PyPdf_Reader
 python3 -m pip install -r requirement.txt
 python3 reader.pyc
